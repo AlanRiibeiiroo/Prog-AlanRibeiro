@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-
-
 int main (){
 
 int PontoTuristicos1, PontoTuristicos2;
